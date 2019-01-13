@@ -1,3 +1,6 @@
+# Let's Play
+https://www.youtube.com/watch?v=b_SGFCOp_io
+
 # About Panditah of the Seventh Mountain
 On hard mode, the most time consuming puzzle in Jewels of the Oracle as far as I know at least. The python scripts here are majour duplicates of each other just quickly intended to solve it in different ways.
 

@@ -1,3 +1,6 @@
+# Let's Play
+https://www.youtube.com/watch?v=5Qusw_rEp0o
+
 # Assembly of the Planners
 This is a solution finder, as well as solution drawer, for the Jewels of the Oracle puzzle Assembly of the planners.
 
